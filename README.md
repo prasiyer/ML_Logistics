@@ -1,11 +1,11 @@
 ## Installation ##
 In order to run the notebooks in this repository, the following libraries have to be installed:
-Pandas 0.24.2
-Numpy 1.17.4
-fastai 1.0.59
-autogluon 0.0.3
-seaborn 0.9.0
-scikit-learn 0.21.2
+1) Pandas 0.24.2
+2) Numpy 1.17.4
+3) fastai 1.0.59
+4) autogluon 0.0.3
+5) seaborn 0.9.0
+6) scikit-learn 0.21.2
 
 ## Project Motivation ##
 The purpose of this project is to show:
